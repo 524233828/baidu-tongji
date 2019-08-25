@@ -8,7 +8,6 @@
 namespace JoseChan\BaiduTongji;
 
 use Illuminate\Support\ServiceProvider;
-use Mushan\BaiduTongji\BaiduTongji;
 
 class BaiduTongjiServiceProvider extends ServiceProvider
 {

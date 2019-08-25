@@ -8,7 +8,7 @@
 
 namespace JoseChan\BaiduTongji;
 
-use Mushan\BaiduTongji\Login;
+use JoseChan\BaiduTongji\Login;
 use Cache;
 
 class BaiduTongji
