@@ -1,15 +1,11 @@
 <?php
 return [
-    /*
-     * 唯一标识
-     */
-    'uuid' => '******',
 
-    'token' => '',
+    'refresh_token' => '',
 
-    'username' => '',
+    'client_id' => '',
 
-    'password' => '',
+    'client_secret' => '',
 
     /**
      * 统计用户仅支持如下账户类型：
